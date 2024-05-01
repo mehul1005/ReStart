@@ -1,0 +1,15 @@
+C:\Users\MG\source\repos\ReStart\ReStart\bin\Debug\ReStart.exe.config
+C:\Users\MG\source\repos\ReStart\ReStart\bin\Debug\ReStart.exe
+C:\Users\MG\source\repos\ReStart\ReStart\bin\Debug\ReStart.pdb
+C:\Users\MG\source\repos\ReStart\ReStart\obj\Debug\ReStart.csproj.AssemblyReference.cache
+C:\Users\MG\source\repos\ReStart\ReStart\obj\Debug\ReStart.Form1.resources
+C:\Users\MG\source\repos\ReStart\ReStart\obj\Debug\ReStart.Properties.Resources.resources
+C:\Users\MG\source\repos\ReStart\ReStart\obj\Debug\ReStart.csproj.GenerateResource.cache
+C:\Users\MG\source\repos\ReStart\ReStart\obj\Debug\ReStart.csproj.CoreCompileInputs.cache
+C:\Users\MG\source\repos\ReStart\ReStart\obj\Debug\ReStart.exe
+C:\Users\MG\source\repos\ReStart\ReStart\obj\Debug\ReStart.pdb
+C:\Users\MG\source\repos\ReStart\ReStart\bin\Debug\WindowsInput.dll
+C:\Users\MG\source\repos\ReStart\ReStart\bin\Debug\WindowsInput.xml
+C:\Users\MG\source\repos\ReStart\ReStart\obj\Debug\ReStart.csproj.CopyComplete
+C:\Users\MG\source\repos\ReStart\ReStart\bin\Debug\Krypton.Toolkit.dll
+C:\Users\MG\source\repos\ReStart\ReStart\bin\Debug\Krypton.Toolkit.xml

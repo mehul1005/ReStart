@@ -1,0 +1,5 @@
+<Settings>
+  <AdvisorExePath>C:\Program Files\Sarin Technologies\Advisor\Advisor.exe</AdvisorExePath>
+  <TimerInterval>120000</TimerInterval>
+  <DelayBeforeKeyPress>20000</DelayBeforeKeyPress>
+</Settings>
